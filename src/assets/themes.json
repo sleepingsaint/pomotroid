@@ -1,0 +1,257 @@
+[
+  {
+    "name": "Andromeda",
+    "colors": {
+      "color_long_round": "#C74DED",
+      "color_short_round": "#00E8C6",
+      "color_focus_round": "#EE5D43",
+      "color_background": "#23262E",
+      "color_background_light": "#2e323d",
+      "color_background_lightest": "#746f77",
+      "color_foreground": "#d5ced9",
+      "color_foreground_darker": "#746f77",
+      "color_foreground_darkest": "#CD9731",
+      "color_accent": "#FFE66D"
+    }
+  },
+  {
+    "name": "Ayu",
+    "colors": {
+      "color_long_round": "#5CCFE6",
+      "color_short_round": "#BAE67E",
+      "color_focus_round": "#F28779",
+      "color_background": "#1F2430",
+      "color_background_light": "#2a3546",
+      "color_background_lightest": "#707a8c",
+      "color_foreground": "#CBCCC6",
+      "color_foreground_darker": "#CBCCC6",
+      "color_foreground_darkest": "#5ccfe6",
+      "color_accent": "#FFCC66"
+    }
+  },
+  {
+    "name": "City Lights",
+    "colors": {
+      "color_long_round": "#6796E6",
+      "color_short_round": "#33CED8",
+      "color_focus_round": "#E27E8D",
+      "color_background": "#1d252c",
+      "color_background_light": "#28313a",
+      "color_background_lightest": "#718CA1",
+      "color_foreground": "#b7c5d3",
+      "color_foreground_darker": "#718CA1",
+      "color_foreground_darkest": "#718CA1",
+      "color_accent": "#EBBF83"
+    }
+  },
+  {
+    "name": "Dracula",
+    "colors": {
+      "color_long_round": "#8be9fd",
+      "color_short_round": "#50fa7b",
+      "color_focus_round": "#ff5555",
+      "color_background": "#282a36",
+      "color_background_light": "#363846",
+      "color_background_lightest": "#6272a4",
+      "color_foreground": "#f8f8f2",
+      "color_foreground_darker": "#ffb86c",
+      "color_foreground_darkest": "#ff79c6",
+      "color_accent": "#bd93f9"
+    }
+  },
+  {
+    "name": "D.Va",
+    "colors": {
+      "color_long_round": "#26adff",
+      "color_short_round": "#0de2c9",
+      "color_focus_round": "#ec57fd",
+      "color_background": "#2e2733",
+      "color_background_light": "#35303a",
+      "color_background_lightest": "#aba3b3",
+      "color_foreground": "#f2f8f7",
+      "color_foreground_darker": "#e8d3ea",
+      "color_foreground_darkest": "#d5bbd8",
+      "color_accent": "#0de2c9"
+    }
+  },
+  {
+    "name": "GitHub",
+    "colors": {
+      "color_long_round": "#6F42C1",
+      "color_short_round": "#005CC5",
+      "color_focus_round": "#CD3131",
+      "color_background": "#FFFFFF",
+      "color_background_light": "#f6f8fa",
+      "color_background_lightest": "#24292e",
+      "color_foreground": "#24292e",
+      "color_foreground_darker": "#586069",
+      "color_foreground_darkest": "#80878e",
+      "color_accent": "#005CC5"
+    }
+  },
+  {
+    "name": "Graphite",
+    "colors": {
+      "color_long_round": "#505154",
+      "color_short_round": "#505154",
+      "color_focus_round": "#505154",
+      "color_background": "#ebebea",
+      "color_background_light": "#fcfcfc",
+      "color_background_lightest": "#adafb1",
+      "color_foreground": "#27292d",
+      "color_foreground_darker": "#4a4e56",
+      "color_foreground_darkest": "#656a75",
+      "color_accent": "#08568c"
+    }
+  },
+  {
+    "name": "Gruvbox",
+    "colors": {
+      "color_long_round": "#83A598",
+      "color_short_round": "#B8BB26",
+      "color_focus_round": "#FB4934",
+      "color_background": "#282828",
+      "color_background_light": "#3c3836",
+      "color_background_lightest": "#bdae93",
+      "color_foreground": "#ebdbb2",
+      "color_foreground_darker": "#bdae93",
+      "color_foreground_darkest": "#928374",
+      "color_accent": "#FABD2F"
+    }
+  },
+  {
+    "name": "Monokai",
+    "colors": {
+      "color_long_round": "#66d9ef",
+      "color_short_round": "#a6e22e",
+      "color_focus_round": "#f92672",
+      "color_background": "#272822",
+      "color_background_light": "#393a34",
+      "color_background_lightest": "#9c9e92",
+      "color_foreground": "#FDF9F3",
+      "color_foreground_darker": "#dad2c6",
+      "color_foreground_darkest": "#d8cbb6",
+      "color_accent": "#AE81FF"
+    }
+  },
+  {
+    "name": "Nord",
+    "colors": {
+      "color_long_round": "#5E81AC",
+      "color_short_round": "#8FBCBB",
+      "color_focus_round": "#B48EAD",
+      "color_background": "#2e3440",
+      "color_background_light": "#3b4252",
+      "color_background_lightest": "#616E88",
+      "color_foreground": "#d8dee9",
+      "color_foreground_darker": "#8FBCBB",
+      "color_foreground_darkest": "#88C0D0",
+      "color_accent": "#A3BE8C"
+    }
+  },
+  {
+    "name": "One Dark Pro",
+    "colors": {
+      "color_long_round": "#61AFEF",
+      "color_short_round": "#98C379",
+      "color_focus_round": "#E06C75",
+      "color_background": "#282c34",
+      "color_background_light": "#3b4048",
+      "color_background_lightest": "#7f848e",
+      "color_foreground": "#abb2bf",
+      "color_foreground_darker": "#abb2bf",
+      "color_foreground_darkest": "#E5C07B",
+      "color_accent": "#C678DD"
+    }
+  },
+  {
+    "name": "Pomotroid",
+    "colors": {
+      "color_long_round": "#0bbddb",
+      "color_short_round": "#05ec8c",
+      "color_focus_round": "#ff4e4d",
+      "color_background": "#2f384b",
+      "color_background_light": "#3d4457",
+      "color_background_lightest": "#9ca5b5",
+      "color_foreground": "#f6f2eb",
+      "color_foreground_darker": "#c0c9da",
+      "color_foreground_darkest": "#dbe1ef",
+      "color_accent": "#05ec8c"
+    }
+  },
+  {
+    "name": "Popping and Locking",
+    "colors": {
+      "color_long_round": "#458588",
+      "color_short_round": "#7ec16e",
+      "color_focus_round": "#f42c3e",
+      "color_background": "#21222d",
+      "color_background_light": "#313242",
+      "color_background_lightest": "#7f7d7a",
+      "color_foreground": "#f2e5bc",
+      "color_foreground_darker": "#f9f5d7",
+      "color_foreground_darkest": "#ebdbb2",
+      "color_accent": "#d79921"
+    }
+  },
+  {
+    "name": "Solarized Light",
+    "colors": {
+      "color_long_round": "#2AA198",
+      "color_short_round": "#859900",
+      "color_focus_round": "#B58900",
+      "color_background": "#FDF6E3",
+      "color_background_light": "#EEE8D5",
+      "color_background_lightest": "#657b83",
+      "color_foreground": "#586e75",
+      "color_foreground_darker": "#93A1A1",
+      "color_foreground_darkest": "#AC9D57",
+      "color_accent": "#268BD2"
+    }
+  },
+  {
+    "name": "Spandex",
+    "colors": {
+      "color_long_round": "#00dcff",
+      "color_short_round": "#09ffbb",
+      "color_focus_round": "#c92fdc",
+      "color_background": "#181a1b",
+      "color_background_light": "#212425",
+      "color_background_lightest": "#5e696d",
+      "color_foreground": "#e0e3e6",
+      "color_foreground_darker": "#b9bdc1",
+      "color_foreground_darkest": "#9da2a7",
+      "color_accent": "#f0ff09"
+    }
+  },
+  {
+    "name": "Synthwave",
+    "colors": {
+      "color_long_round": "#36F9F6",
+      "color_short_round": "#72F1B8",
+      "color_focus_round": "#FF7EDB",
+      "color_background": "#262335",
+      "color_background_light": "#372d4b",
+      "color_background_lightest": "#495495",
+      "color_foreground": "#e0e3e6",
+      "color_foreground_darker": "#b893ce",
+      "color_foreground_darkest": "#DD5500",
+      "color_accent": "#CD9731"
+    }
+  },
+  {
+    "name": "Tokyo Night Storm",
+    "colors": {
+      "color_long_round": "#7AA2F7",
+      "color_short_round": "#73DACA",
+      "color_focus_round": "#F7768E",
+      "color_background": "#24283b",
+      "color_background_light": "#1b1e2e",
+      "color_background_lightest": "#9AA5CE",
+      "color_foreground": "#c0caf5",
+      "color_foreground_darker": "#9AA5CE",
+      "color_foreground_darkest": "#89DDFF",
+      "color_accent": "#9D7CD8"
+    }
+  }
+]
